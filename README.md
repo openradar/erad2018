@@ -15,7 +15,7 @@ Watch the [ERAD 2018 website](http://www.erad2018.nl/) for upcoming info on regi
 - ...?
 
 ### Things you need to prepare
-Participants need to bring their own 64-bit notebook (Linux, Windows, Mac). All you need to do is to install VirtualBox and import the Virtual Machine for the course. Please see http://openradarscience.org/vm-docs/ for detailed instructions, but, in time, we will also send around an e-Mail to the registered participants.
+Participants need to bring their own 64-bit notebook (Linux, Windows, Mac). All you need to do is to install VirtualBox and import the Virtual Machine for the course. Please see [here](http://openradarscience.org/vm-docs/) for detailed instructions, but, in time, we will also send around an e-Mail to the registered participants.
 
 ### Course program
 The course will take place roughly between 9:00 and 17:00. As pointed out above, we will feature an overview of open source weather radar software packages, and discuss how open source community software could contribute to make science and applications more transparent, reproducible, and efficient. Most parts of the course will consist of hands-on exercises, indluding a Python quick start, applications of packages such as BALTRAD, Py-ART, and wradlib, and demonstrations of how these packages could interact. A more detailed course program will be publiehd here in due time.
