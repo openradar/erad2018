@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### Welcome to the ERAD 2018 short course on community radar software
+This course will take place on July 1st 2018, right before the [ERAD 2018 conference](http://www.erad2018.nl/). We will introduce the participants to community software packages designed for radar data processing, including (but not limited to) [BALTRAD](http://git.baltrad.eu/), [Py-ART](http://arm-doe.github.io/pyart/), and [wradlib](https://wradlib.org). 
 
-You can use the [editor on GitHub](https://github.com/openradar/erad2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The common ground for most of those tools is Python, so we'll feature a quick intro to the Python programming language, and endow participants with the basics of how to contribute to community software. For the course, we will provide a [platform-independent virtual machine](http://openradar.github.com) that contains all the required software, data, and course materials.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Registration 
+Watch the [ERAD 2018 website](http://www.erad2018.nl/) for upcoming information on registration procedure and associated costs for luch and coffee breaks (to be expected in the order of 50-75 Euros). Beware that the maximum number of participants is limited to 30.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tentative list of tutors
+- Crisologo, Irene (University of Potsdam, Germany)
+- Collis, Scott (Argonne National Laboratory, USA)
+- Heistermann, Maik (University of Potsdam, Germany)
+- Michelson, Daniel B. (Environment and Climate Change Canada)
+- Muehlbauer, Kai (University of Bonn, Germany)
 
-```markdown
-Syntax highlighted code block
+### Things you need to prepare
+Participants need to bring their own 64-bit notebook (Linux, Windows, Mac). All you need to do is to install VirtualBox and import the Virtual Machine for the course. Please see http://openradar.github.io for detailed instructions, but, in time, we will also send around an e-Mail to the registered participants.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openradar/erad2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Course program
+The course will take place roughly between 9:00 and 17:00. As pointed out above, we will feature an overview of open source weather radar software packages, and discuss how open source community software could contribute to make science and applications more transparent, reproducible, and efficient. Most parts of the course will consist of hands-on exercises, indluding a Python quick start, applications of packages such as BALTRAD, Py-ART, and wradlib, and demonstrations of how these packages could interact. A more detailed course program will be publiehd here in due time.
