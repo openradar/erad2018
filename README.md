@@ -1,11 +1,10 @@
-### Welcome to the ERAD 2018 short course on community radar software
-This course will take place on July 1st 2018, right before the [ERAD 2018 conference](http://www.erad2018.nl/). We will introduce the participants to community software packages designed for radar data processing, including (but not limited to) [BALTRAD](http://git.baltrad.eu/), [Py-ART](http://arm-doe.github.io/pyart/), and [wradlib](https://wradlib.org). 
+### ERAD 2018 Short Course on Community Radar Software
+The course will take place on July 1st 2018, right before the [ERAD 2018 conference](http://www.erad2018.nl/). We will introduce the participants to community software packages designed for radar data processing, including (but not limited to) [BALTRAD](http://git.baltrad.eu/), [Py-ART](http://arm-doe.github.io/pyart/), and [wradlib](https://wradlib.org). 
 
 The common ground for most of those tools is Python, so we'll feature a quick intro to the Python programming language, and endow participants with the basics of how to contribute to community software. For the course, we will provide a [platform-independent virtual machine](http://openradar.github.com) that contains all the required software, data, and course materials.
 
-
 ### Registration 
-Watch the [ERAD 2018 website](http://www.erad2018.nl/) for upcoming information on registration procedure and associated costs for luch and coffee breaks (to be expected in the order of 50-75 Euros). Beware that the maximum number of participants is limited to 30.
+Watch the [ERAD 2018 website](http://www.erad2018.nl/) for upcoming info on registration and associated costs for luch and coffee breaks (to be expected in the order of 50-75 Euros). Beware that the maximum number of participants is limited to 30.
 
 ### Tentative list of tutors
 - Crisologo, Irene (University of Potsdam, Germany)
@@ -13,6 +12,7 @@ Watch the [ERAD 2018 website](http://www.erad2018.nl/) for upcoming information 
 - Heistermann, Maik (University of Potsdam, Germany)
 - Michelson, Daniel B. (Environment and Climate Change Canada)
 - Muehlbauer, Kai (University of Bonn, Germany)
+- ...?
 
 ### Things you need to prepare
 Participants need to bring their own 64-bit notebook (Linux, Windows, Mac). All you need to do is to install VirtualBox and import the Virtual Machine for the course. Please see http://openradar.github.io for detailed instructions, but, in time, we will also send around an e-Mail to the registered participants.
