@@ -1,2 +1,6 @@
-### A feel of scientific Python
+## A feel of scientific Python
 This page is the entry point to the Python intro session...
+
+### First section
+...
+
