@@ -1,5 +1,5 @@
 ## Hands on wradlib
-In this session, we will get a feel of the wradlib package. The main entry point to wradlib is https://wradlib.org which will link you to wradlib's documentation, user groups, GitHub repositories, and more.
+In this session, we will get to know the wradlib package. The main entry point to wradlib is https://wradlib.org which will link you to wradlib's documentation, user groups, GitHub repositories, and more.
 
 For this session, you should have the [open virtual machine](http://openradarscience.org/vm-docs/) up and running on your system. From within the home directory, please run
 
