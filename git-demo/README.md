@@ -4,4 +4,4 @@ The term "version control" usually scares people off. It's something obscure, na
 
 Nowadays, it is safe to say that using version control has never been easier. In this session, we will demonstrate how the interaction between git (the most popular version control system), together with the internet platform GitHub, can be used for collaborative development.
 
-The virtual machine already contains a `git` installation. If you want to participate interactively, you should get yourself an account on https://github.com.
+The virtual machine already contains a `git` installation. If you want to participate interactively, you should get yourself an account on [https://github.com](https://github.com).
