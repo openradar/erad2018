@@ -6,7 +6,7 @@ The common ground for most of those tools is Python, so we'll feature a quick in
 ### Registration 
 You need to register for the short course [here](https://www.erad2018.nl/registration/). The course fee is 75 EUR (coffee, lunch, room). Beware that the maximum number of participants is limited to 30.
 
-### Tentative list of tutors
+### List of tutors
 * Crisologo, Irene (University of Potsdam, Germany)
 * Collis, Scott (Argonne National Laboratory, USA)
 * Heistermann, Maik (University of Potsdam, Germany)
